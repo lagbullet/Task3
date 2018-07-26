@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\bin\Debug\PeopleApp.exe.config
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\bin\Debug\PeopleApp.exe
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\bin\Debug\PeopleApp.pdb
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\obj\Debug\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\obj\Debug\PeopleApp.exe
+C:\Users\Alexander\source\repos\PeopleApp\PeopleApp\obj\Debug\PeopleApp.pdb
