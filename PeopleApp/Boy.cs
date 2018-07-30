@@ -26,7 +26,7 @@ namespace PeopleApp
 
         public void Talk()
         {
-            Console.WriteLine("Hello, my name is {0} and I bornd in {1}", FirstName, Birthdate);
+            Console.WriteLine("Hello, my name is {0} and I was born in {1}", FirstName, Birthdate);
         }
     }
 }

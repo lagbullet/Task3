@@ -23,7 +23,6 @@ namespace PeopleApp
             SurName = surname;
             FirstName = firstname;
             Patronymic = patronymic;
-            Birthdate = birthdate;
         }
 
         public virtual void Show()
