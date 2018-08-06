@@ -10,8 +10,8 @@ namespace PeopleApp
     {
         static void Main(string[] args)
         {
-            Boy boy = new Boy("SN","Bob","PT","20.05.1998",20);
-            Girl girl = new Girl("SN", "Lilly", "PT", "10.02.1995", 23, 175);
+            Boy boy = new Boy("SN","Bob","PT","20.05.1998",20, 190);
+            Girl girl = new Girl("SN", "Lilly", "PT", "10.02.1995", 23, 175, true);
             boy.Show();
             boy.Talk();
             girl.SayHello();

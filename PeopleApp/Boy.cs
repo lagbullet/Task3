@@ -10,14 +10,17 @@ namespace PeopleApp
     {
         private int _Age;
         private string _Birthdate;
+        private int _Height;
 
         public override string Birthdate { get; set; }
         public int Age { get; set; }
+        public int Height { get; set; }
 
-        public Boy(string surname, string firstname, string patronymic,string birthdate, int age) : base(surname, firstname, patronymic)
+        public Boy(string surname, string firstname, string patronymic,string birthdate, int age, int  height) : base(surname, firstname, patronymic)
         {
             Age = age;
             Birthdate= birthdate;
+            Height = height;
         }
         public override void Show()
         {

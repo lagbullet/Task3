@@ -11,16 +11,19 @@ namespace PeopleApp
         private int _Age;
         private string _Birthdate;
         private int _Height;
+        private bool _IsMother;
 
         public override string Birthdate { get; set; }
         public int Age { get; set; }
         public int Height { get; set; }
+        public bool IsMother { get; set; }
 
-        public Girl(string surname, string firstname, string patronymic, string birthdate, int age, int height) : base(surname, firstname, patronymic)
+        public Girl(string surname, string firstname, string patronymic, string birthdate, int age, int height, bool mother) : base(surname, firstname, patronymic)
         {
             Age = age;
             Birthdate = birthdate;
             Height = height;
+            IsMother = mother;
         }
         public override void Show()
         {
